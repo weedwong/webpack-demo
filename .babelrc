@@ -1,0 +1,7 @@
+{
+  "presets": ["env", "react","@babel/preset-env"],
+  "plugins": [
+      "transform-class-properties",
+      "dva-hmr"
+    ]
+}
